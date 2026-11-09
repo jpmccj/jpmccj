@@ -39,5 +39,5 @@ Gosto de unir **tecnologia e saúde**: construo sistemas que resolvem problemas 
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](COLE_SEU_LINK_AQUI)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-magri-castrequini-316282337/)
 - 📧 joaopedromagri20@gmail.com
