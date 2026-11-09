@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o João Pedro 👋
 
-<!--
-**jpmccj/jpmccj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com **TI no Austa Hospital** e curso Informática para Negócios na **FATEC São José do Rio Preto**.
+Gosto de unir **tecnologia e saúde**: construo sistemas que resolvem problemas reais de hospitais.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- **[Sis-Medico](link)**: sistema hospitalar para procedimentos e cirurgias (NestJS + TypeScript)
+- **[project-fullstack](link)**: front React + back NestJS
+
+## 📫 Contato
+[LinkedIn](link) · joaopedromagri20@gmail.com
